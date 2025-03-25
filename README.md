@@ -34,7 +34,7 @@ The report covers both basic and advanced assessments including data cleaning & 
 - Applied manual corrections for identified missing dates (e.g., copying previous day’s values).
 
 **Outlier Considerations:**
-- Outlier handling was discussed but in this dataset every value was considered important, so no data points were removed.
+- Outlier handling : In this dataset every value was considered important, so no data points were removed.
 
 ### 2.3 Feature Engineering and Data Transformation
 
