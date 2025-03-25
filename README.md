@@ -1,4 +1,4 @@
-# WeatherTrendForecasting-PMAcceleratorAssignment
+
 
 # Global Weather Forecasting Project Report
 
